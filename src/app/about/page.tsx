@@ -31,7 +31,7 @@ export async function generateMetadata() {
       title: "Blog & Photography | Jumbo Zhang",
       description: "This is a page about Po-Feng Chang.",
       images: [
-        "https://res.cloudinary.com/dvxhki7cj/image/upload/v1750587629/DSC01179_1_tx3da4.jpg",
+        "https://res.cloudinary.com/dvxhki7cj/image/upload/v1778137501/111651070-6-%E6%96%B9_ngii6p.jpg",
       ],
     },
   };
@@ -46,7 +46,7 @@ const Page = async () => {
       <div className="container mx-auto px-5 pt-[120px] pb-16">
         <div className="mb-10 flex justify-center">
           <Image
-            src="https://res.cloudinary.com/dvxhki7cj/image/upload/v1750587629/DSC01179_1_tx3da4.jpg"
+            src="https://res.cloudinary.com/dvxhki7cj/image/upload/v1778137501/111651070-6-%E6%96%B9_ngii6p.jpg"
             alt="Jumbo Portrait"
             width={250}
             height={250}
